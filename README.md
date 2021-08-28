@@ -1,4 +1,4 @@
-#-Shop-Shop-Redux
+# Shop-Shop-Redux
 
 ## Project Description
 This is a refactor of fictional e-commerce appliaction that uses Redux for the global state control, created with React front end, Express server, a MongoDb for the database, and Node.Js.
