@@ -8,8 +8,6 @@ If you would like to modify the code, clone the project onto your computer, and 
 From the root directory, type `npm start` to start the Express and GraphQL/Apollo servers. The homepage of the application will open in your default browser.
 
 ## Usage
-The application is deployed at: https://obscure-shelf-50048.herokuapp.com/ 
 
-You can create an account.
 # viewed the depolyed application here:
 https://obscure-sands-72753.herokuapp.com/
